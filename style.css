@@ -1,0 +1,12 @@
+*{
+background-color: rgb(222, 226, 217);
+text-align: center;
+text-shadow: indigo;
+font-size: 34px;
+}
+.container{
+
+display: block;
+color: rgb(0, 0, 0);
+
+}
